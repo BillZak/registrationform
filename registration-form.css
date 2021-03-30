@@ -1,0 +1,106 @@
+.general{
+	background-color: azure;
+}
+.head{
+	border: 1px solid silver;
+	border-radius: 20px;
+	border-top: 20px solid deepskyblue; 
+	padding: 20px;
+	margin: 20px;
+	background-color: #FFF;
+}
+h1{
+	font-size: 50px;
+	font-family: 'Roboto', sans-serif;
+}
+h4{
+	color: red;
+}
+.Email{
+	border: 1px solid silver;
+	border-radius: 20px;
+	padding: 30px;
+	margin: 20px;
+	background-color: #FFF;
+}
+.name{
+	border: 1px solid silver;
+	border-radius: 20px;
+	padding: 30px;
+	margin: 20px;
+	background-color: #FFF;
+}
+.tel{
+	border: 1px solid silver;
+	border-radius: 20px;
+	padding: 30px;
+	margin: 20px;
+	background-color: #FFF;
+}
+.pno{
+	border: 1px solid silver;
+	border-radius: 20px;
+	padding: 30px;
+	margin: 20px;
+	background-color: #FFF;
+}
+.payment{
+	border: 1px solid silver;
+	border-radius: 20px;
+	padding: 30px;
+	margin: 20px;
+	background-color: #FFF;
+}
+.who{
+	border: 1px solid silver;
+	border-radius: 20px;
+	padding: 30px;
+	margin: 20px;
+	background-color: #FFF;
+}
+.loc{
+    border: 1px solid silver;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 20px;
+    background-color: #FFF;
+}
+.school{
+    border: 1px solid silver;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 20px;
+    background-color: #FFF;
+}
+.why{
+    border: 1px solid silver;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 20px;
+    background-color: #FFF;
+}
+.how{
+    border: 1px solid silver;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 20px;
+    background-color: #FFF;
+}
+label{
+	font-size: 18px;
+}
+input{
+	border: none;
+	border-bottom: 1px solid black;
+	width:40%;
+}
+.who >input{
+    width: 10%;
+    margin: 0;
+    padding: 0;
+}
+.greenbar{
+	float: right;
+	margin-right: 20px;
+}
+
